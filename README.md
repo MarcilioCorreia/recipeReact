@@ -15,7 +15,7 @@
 ---
 <a name="-Project-Description"></a>
 ## 🚀 Project Description
-<p>This is a Recipe App developed in React where I use the Edamam API for the recipes. You can find more information on the <a href="https://www.youtube.com/watch?v=pCA4qpQDZD8&ab_channel=DevEd">Dev Ed YouTube Channel</a>.</p>
+<p>This is a Recipe App developed in React where I used the Edamam API for the recipes. You can find more information on the <a href="https://www.youtube.com/watch?v=pCA4qpQDZD8&ab_channel=DevEd">Dev Ed YouTube Channel</a>.</p>
 
 --- 
 <a name="-The-Technologies-used"></a>
